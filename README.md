@@ -25,10 +25,9 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-```python
-# Developed By: ONTEDDU SIRISHA
-# Register Number: 212222230103
-```
+Developed By: ONTEDDU SIRISHA
+
+Register Number: 212222230103
 ## Input Grayscale Image and Color Image :
 ```
 import cv2
